@@ -1,5 +1,4 @@
-# vue-crash-2021
-
+# vueAdd_tasks
 ## Project setup
 ```
 npm install
